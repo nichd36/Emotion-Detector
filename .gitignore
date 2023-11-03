@@ -1,0 +1,31 @@
+/.DS_Store
+/.ipynb_checkpoints
+/20ori_exported_model_git.h5
+/20os_exported_model_git.h5
+/32_batch_OS_exported_model_git.h5
+/32_batch_ori_exported_model_git.h5
+/50exported_model_git_revised.h5
+/Emotion-detection-master
+/Home.py
+/Model_1.ipynb
+/Model_2_rotated.ipynb
+/Model_3_oversampled.ipynb
+/Model_4_oversampled_rotated.ipynb
+/Tutorial
+/Tutorial: Image Descriptor
+/check_accuracy.ipynb
+/emotiondata
+/exported_model.h5
+/exported_model_git.h5
+/exported_model_git_revised.h5
+/haarcascade_frontalface_default.xml
+/image
+/images
+/model.h5
+/mood-detection-and-live-camera.ipynb
+/num_train_changed_32_batch_OS_exported_model_git.h5
+/os - emotion-git copy 3.ipynb
+/os_exported_model_git.h5
+/oversample_and_rotate.ipynb
+/resampled_train
+/rotate_num_train_changed_32_batch_OS_exported_model_git.h5
