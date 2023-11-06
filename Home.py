@@ -39,7 +39,7 @@ if uploaded_image is not None or picture is not None:
     if len(faces) == 0:
         st.warning("No faces found in the image.")
     else:
-        st.success(f"{len(faces)} faces found")        
+        st.success(f"{len(faces)} face(s) found")        
         for (x, y, w, h) in faces:
             cv2.rectangle(image, (x, y-50), (x+w, y+h+10), (255, 0, 0), 2)
             roi_gray = gray[y:y + h, x:x + w]
