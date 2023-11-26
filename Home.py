@@ -9,7 +9,7 @@ from keras.utils import to_categorical
 import cv2
 from keras.models import load_model
 
-
+image_path = "715vwvP5ZEL.png"
 st.set_page_config(layout="wide", page_title="Emotion Detector", page_icon = image_path)
 
 # Load the pre-trained model
