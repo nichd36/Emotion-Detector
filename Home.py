@@ -9,6 +9,9 @@ from keras.utils import to_categorical
 import cv2
 from keras.models import load_model
 
+
+st.set_page_config(layout="wide", page_title="Emotion Detector", page_icon = image_path)
+
 # Load the pre-trained model
 model = load_model('Model_2_30ONLYrotate_num_train_changed_32_batch_exported_model_git.h5')
 
