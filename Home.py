@@ -10,7 +10,7 @@ import cv2
 from keras.models import load_model
 
 # Load the pre-trained model
-model = load_model('ONLYrotate_num_train_changed_32_batch_exported_model_git.h5')
+model = load_model('Model_2_30ONLYrotate_num_train_changed_32_batch_exported_model_git.h5')
 
 # Prevent openCL usage and unnecessary logging messages
 cv2.ocl.setUseOpenCL(False)
